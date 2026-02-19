@@ -1,0 +1,5 @@
+{
+  "name": "Ghiblify - AI Style Converter",
+  "description": "Transform your photos into Studio Ghibli style art using Gemini AI.",
+  "requestFramePermissions": []
+}
